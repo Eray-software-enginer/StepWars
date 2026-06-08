@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61920994630",
+    "firebase_url": "https://stepwars2-f0e9e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "stepwars2-f0e9e",
+    "storage_bucket": "stepwars2-f0e9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61920994630:android:93f02751583e5aa863b147",
+        "android_client_info": {
+          "package_name": "com.example.stepwars2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61920994630-dathq9gi9bqa342eo7dpjfo52kpi59ro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stepwars2",
+            "certificate_hash": "80728911f73da9bdb6fe17e4c2ae8b97906d7c58"
+          }
+        },
+        {
+          "client_id": "61920994630-otlb99lha1jgb7gk3k90628rgs3vn752.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf_LbKVEniaMyTgUonv888V6FOgfBfFOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61920994630-otlb99lha1jgb7gk3k90628rgs3vn752.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
