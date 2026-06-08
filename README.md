@@ -1,6 +1,6 @@
-# StepWars2 - Gamified Pedometer & RPG Card Game
+# StepWars - Gamified Pedometer & RPG Card Game
 
-StepWars2, hareketsiz yaşam tarzına karşı kullanıcıları yürümeye teşvik etmek amacıyla geliştirilmiş yenilikçi bir mobil Android projesidir. 
+StepWars, hareketsiz yaşam tarzına karşı kullanıcıları yürümeye teşvik etmek amacıyla geliştirilmiş yenilikçi bir mobil Android projesidir. 
 
 ### Öne Çıkan Özellikler
 
